@@ -1,6 +1,3 @@
-'''Kailash
-created:2/11/23
-last modified:2/11/23'''
 import cv2
 import gi
 gi.require_version("Gst", "1.0")
